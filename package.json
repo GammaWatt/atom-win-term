@@ -1,7 +1,7 @@
 {
   "name": "atom-win-term",
   "main": "./lib/atom-win-term",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Opens a windows command prompt at project root folder.",
   "keywords": [
     "Windows",
