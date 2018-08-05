@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-t": "atom-win-term:toggle",
+    "ctrl-alt-shift-t": "atom-start-me-venv:doit"
+  }
+}

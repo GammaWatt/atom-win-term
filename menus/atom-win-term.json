@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open Command Prompt",
+        "command": "atom-win-term:openwincmd"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom WinTerm",
+          "submenu": [
+            {
+              "label": "Open Command Prompt",
+              "command": "atom-win-term:openwincmd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "atom-win-term",
+  "main": "./lib/atom-win-term",
+  "version": "0.0.0",
+  "description": "Opens a command prompt at project root folder. Only  works with the first top-level root folder in project.",
+  "keywords": [
+    "Windows",
+    "Win",
+    "Command Prompt",
+    "Win CMD"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-win-term:toggle",
+      "atom-start-me-venv:doit"
+    ]
+  },
+  "repository": "https://github.com/GammaWatt/atom-win-term",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
