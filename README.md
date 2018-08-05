@@ -1,5 +1,5 @@
 # atom-win-term
-Open a file in the project you're working on, press ctrl + alt + t, and you'll get a command prompt in the project's directory.
+First, you must open a file in the project you're working on, press ctrl + alt + t, and you'll get a command prompt in the project's directory.
 
 Requires an open text file to work.
 
